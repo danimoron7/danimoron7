@@ -57,9 +57,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eta-flame-94.vercel.app/api?username=danimoron7&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+<div align="center">
 
-![Lenguajes más usados](https://github-readme-stats-eta-flame-94.vercel.app/api/top-langs/?username=danimoron7&layout=compact&theme=transparent&hide_border=true)
+| ![GitHub Stats](https://github-readme-stats-eta-flame-94.vercel.app/api?username=danimoron7&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![Lenguajes más usados](https://github-readme-stats-eta-flame-94.vercel.app/api/top-langs/?username=danimoron7&layout=compact&theme=transparent&hide_border=true) |
+|---|---|
+
+</div>
+
 </div>
 
 ---
