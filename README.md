@@ -11,9 +11,9 @@
 ## 🙋 Sobre mí
 
 - 🎓 Estudiando **DAW** (Desarrollo de Aplicaciones Web)
-- 💻 Apasionado por el desarrollo frontend y la creación de experiencias web
-- 🎯 Buscando mi primera oportunidad profesional en el sector
-- 📍 España
+- 💻 Desarrollando proyectos web mientras termino el ciclo
+- 🎯 Con ganas de seguir creciendo en el sector
+- 📍 Brenes, Sevilla, España
 
 ---
 
