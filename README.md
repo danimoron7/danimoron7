@@ -71,7 +71,7 @@
 ## 📬 Contacto
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://linkedin.com/in/daniel-moron-00a0253b6) &nbsp; 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/danielmoron7/) &nbsp; 
 ![Email](https://img.shields.io/badge/danimoron53@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
 </div>
