@@ -50,6 +50,7 @@
 |----------|-------------|-------------|
 | [Proyecto Star Wars](https://github.com/danimoron7/ProyectoStarWars) | App web con gestión de pilotos, naves y misiones del universo Star Wars. CRUD completo y estadísticas en tiempo real. | HTML · CSS · JS <br> [🔗 Alianza_Rebelde](https://proyecto-star-wars-sandy.vercel.app/) | 
 | [Festival de Naciones](https://github.com/danimoron7/festivalnaciones) | Web multipage de un festival de naciones con secciones de conciertos, gastronomía, actividades y participantes. | HTML · CSS · JS <br> [🔗 Festival_Naciones](https://festivalnaciones.vercel.app/) |
+| [Portfolio](https://portfolio-indol-nine-pilm3vpti8.vercel.app/) | Portfolio personal con proyectos web, habilidades técnicas y contacto. Desarrollado con HTML, CSS y Bootstrap 5. | HTML · CSS · Bootstrap <br> [🔗 Portfolio](https://portfolio-indol-nine-pilm3vpti8.vercel.app/) |
 
 ---
 
